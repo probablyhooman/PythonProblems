@@ -1,3 +1,5 @@
+#creating a fibonacci series 
+
 def fib(n):
 
     a= 0
